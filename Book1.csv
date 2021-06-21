@@ -1,0 +1,22 @@
+m50
+'1503',
+'1504',
+'1505',
+'1506',
+'1507',
+'1012',
+'1500',
+'1501',
+'1502',
+'1508',
+'1509',
+'15010',
+'15011',
+'15012'
+
+
+pyspark --packages datastax:spark-cassandra-connector:2.4.0-s_2.11
+--conf spark.cassandra.connection.?? host=127.0.0.1
+
+run one by one slowly
+ok
